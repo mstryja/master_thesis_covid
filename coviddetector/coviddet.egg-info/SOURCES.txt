@@ -1,0 +1,5 @@
+setup.py
+coviddet.egg-info/PKG-INFO
+coviddet.egg-info/SOURCES.txt
+coviddet.egg-info/dependency_links.txt
+coviddet.egg-info/top_level.txt
